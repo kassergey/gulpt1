@@ -1,0 +1,1 @@
+document.writeln('<p class="class2">JS TWO</p>');
